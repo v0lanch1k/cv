@@ -15,5 +15,16 @@ I am also an ambassador for such brands as BMW, Porsche and Ferrari. Employee of
 + Blender 
 + Steam
 ##
+### Code example:
+```C++
+#include <iostream>
+#include <math.h>
+using namespace std;
 
+int main() {
+  cout << "Hello world!";
+  return 0;
+}
+```
+##
 
