@@ -27,4 +27,11 @@ int main() {
 }
 ```
 ##
+### Education:
++ Vitebsk State University<br>
+  Management of Information Systems<br>
+  2022 - current
 
++ Vitebsk Gymnasium №8<br>
+  2011-2022 
+##
