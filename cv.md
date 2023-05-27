@@ -8,5 +8,12 @@
 My name is Vladimir Petrochenko, I am from Belarus, I am 18 years old, currently a student of VSU. I am fond of active sports. My favorites are windsurfing and downhill skiing.
 I am also an ambassador for such brands as BMW, Porsche and Ferrari. Employee of the logistics company UAB Istline
 ##
+### Skills and proficiency:
++ HTML, CSS (basics)
++ C++
++ Adobe Photoshop
++ Blender 
++ Steam
+##
 
 
