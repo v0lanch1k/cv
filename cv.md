@@ -35,3 +35,16 @@ int main() {
 + Vitebsk Gymnasium №8<br>
   2011-2022 
 ##
+### Languages:
+**Fluent in:**
++ Russian
++ Belarusian
++ English
+
+**Can understand:**
++ Polish
+
+**Slightly:**
++ German
++ Lithuanian
++ Tatar
